@@ -1,0 +1,5 @@
+title: "totk-pc-recomp-service"
+description: "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included. (Extended cloud-native edition & architecture specifications)"
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-relative-links
